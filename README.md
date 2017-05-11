@@ -19,17 +19,21 @@ Output format :
 Length of string (S).
 
 ____ Sample Input #0 _____________
+
 HARRY
 SALLY
 
 ____ Sample Output #0 _____________
+
 2
 
 ____ Sample Input #1 _____________
+
 AA
 BB
 
 ____ Sample Output #1 _____________
+
 0
 
 ____ Sample Input #2 _____________
